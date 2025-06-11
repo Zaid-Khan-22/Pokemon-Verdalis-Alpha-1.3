@@ -2,7 +2,7 @@
 let t1,t2,t3,t4,t5,t6,t7,t8,i = 0
 let temp = 0;
 let npctalk = [false,false,false,false,false]
-let noOfPokemonLeft = 1
+let noOfPokemonLeft = 0
 let trainerImg
 
 let pokemon1Img = null,pokemon2Img = null,pokemon3Img = null
